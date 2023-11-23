@@ -4,6 +4,8 @@ from sklearn.decomposition import LatentDirichletAllocation
 from sklearn.feature_extraction.text import CountVectorizer
 import nltk
 
+# I added this line 11/22/23
+
 nltk.download('vader_lexicon')
 
 # Placeholder for scraping Amazon reviews
